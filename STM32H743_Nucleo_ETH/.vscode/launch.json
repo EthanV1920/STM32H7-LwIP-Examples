@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/ethanvosburg/Documents/git/STM32H7-LwIP-Examples/STM32H743_Nucleo_ETH/Middlewares/Third_Party/FreeRTOS/Source",
+      "program": "/Users/ethanvosburg/Documents/git/STM32H7-LwIP-Examples/STM32H743_Nucleo_ETH/Middlewares/Third_Party/FreeRTOS/Source/build/Debug/outDebug"
+    }
+  ]
+}
